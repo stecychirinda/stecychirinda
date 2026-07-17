@@ -2,7 +2,7 @@
 
 # Hi, I'm Stecy Chirinda 👋
 
-### Aspiring Technical Product Manager | AI/ML Builder | Break Through Tech AI Fellow
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=620&lines=Aspiring+Technical+Product+Manager;AI%2FML+Builder;Break+Through+Tech+AI+Fellow;Mental+Health+Technology+Enthusiast" alt="Animated professional headline" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stecy-chirinda/)
 [![GitHub](https://img.shields.io/badge/GitHub-stecychirinda-181717?style=flat&logo=github&logoColor=white)](https://github.com/stecychirinda)
@@ -50,10 +50,15 @@ A mobile-first platform connecting students with peer mentors who have experienc
 
 ## Additional Repositories
 
-- [Buddy Link](https://github.com/BuddyLink/Buddy_Link)
-- [Stecy PM](https://github.com/stecychirinda/stecy-pm)
-- [Kudos Board](https://github.com/stecychirinda/kudos_board)
-- [Flixster](https://github.com/stecychirinda/flixster-starter)
+<div align="center">
+
+[![Buddy Link](https://github-readme-stats.vercel.app/api/pin/?username=BuddyLink&repo=Buddy_Link&theme=transparent&hide_border=true)](https://github.com/BuddyLink/Buddy_Link)
+[![Stecy PM](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=stecy-pm&theme=transparent&hide_border=true)](https://github.com/stecychirinda/stecy-pm)
+[![Kudos Board](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=kudos_board&theme=transparent&hide_border=true)](https://github.com/stecychirinda/kudos_board)
+[![Flixster](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=flixster-starter&theme=transparent&hide_border=true)](https://github.com/stecychirinda/flixster-starter)
+
+</div>
+
 
 ## Tech & Product Toolkit
 
