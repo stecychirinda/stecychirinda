@@ -48,24 +48,6 @@ A mobile-first platform connecting students with peer mentors who have experienc
 
 **Focus:** Product Discovery · User Research · MVP Strategy · Mobile Product Development
 
-📌 Currently in research and development
-
-### AI Data Quality Checker
-
-A data-analysis tool that detects missing values and outliers, helping users understand dataset quality before conducting analysis or building models.
-
-**Tools:** Python · Streamlit · pandas
-
-📌 Repository link coming soon
-
-### Mutual Fund Calculator
-
-A full-stack investment calculator that helps users estimate future mutual-fund value and save calculations for later review.
-
-**Tools:** React · Flask · Python · SQLAlchemy
-
-📌 Repository link coming soon
-
 ## Additional Repositories
 
 - [Buddy Link](https://github.com/BuddyLink/Buddy_Link)
@@ -105,7 +87,7 @@ I'm always interested in meeting people working across product management, AI/ML
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/stecy-chirinda/)
 - **GitHub:** [github.com/stecychirinda](https://github.com/stecychirinda)
-- **Email:** [Confirm email address](mailto:CONFIRM_EMAIL_ADDRESS)
+- **Email:** [Confirm email address](mailto:schirind@gsumail.gram.edu)
 
 ---
 
