@@ -50,15 +50,10 @@ A mobile-first platform connecting students with peer mentors who have experienc
 
 ## Additional Repositories
 
-<div align="center">
-
-[![Buddy Link](https://github-readme-stats.vercel.app/api/pin/?username=BuddyLink&repo=Buddy_Link&theme=transparent&hide_border=true)](https://github.com/BuddyLink/Buddy_Link)
-[![Stecy PM](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=stecy-pm&theme=transparent&hide_border=true)](https://github.com/stecychirinda/stecy-pm)
-[![Kudos Board](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=kudos_board&theme=transparent&hide_border=true)](https://github.com/stecychirinda/kudos_board)
-[![Flixster](https://github-readme-stats.vercel.app/api/pin/?username=stecychirinda&repo=flixster-starter&theme=transparent&hide_border=true)](https://github.com/stecychirinda/flixster-starter)
-
-</div>
-
+- [Buddy Link](https://github.com/BuddyLink/Buddy_Link)
+- [Stecy PM](https://github.com/stecychirinda/stecy-pm)
+- [Kudos Board](https://github.com/stecychirinda/kudos_board)
+- [Flixster](https://github.com/stecychirinda/flixster-starter)
 
 ## Tech & Product Toolkit
 
@@ -77,14 +72,6 @@ A mobile-first platform connecting students with peer mentors who have experienc
 - **Speaker & Moderator:** Interested in MCing, panel moderation, and making complex ideas accessible
 - **Interests:** AI product management, mental-health technology, financial inclusion, education, and mentorship
 
-## Credentials & Recognition
-
-- Break Through Tech AI Fellow
-- Society of Actuaries Exam P — Passed
-- President's List, Grambling State University
-- IBM AI Practitioner
-- Google AI Essentials
-- Milken Institute HBCU Leadership Fellowship Alum
 
 ## Let's Connect
 
