@@ -79,7 +79,7 @@ I'm always interested in meeting people working across product management, AI/ML
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/stecy-chirinda/)
 - **GitHub:** [github.com/stecychirinda](https://github.com/stecychirinda)
-- **Email:** [Confirm email address](mailto:schirind@gsumail.gram.edu)
+- **Email:** [Email address](mailto:schirind@gsumail.gram.edu)
 
 ---
 
